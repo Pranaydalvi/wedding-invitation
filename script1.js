@@ -57,7 +57,7 @@ $(document).on('click', function () {
     console.log('Shaadi me zaroor aana');
 });
 
-var countDownDate = new Date("may 01, 2024 18:49:00").getTime();
+var countDownDate = new Date("may 01, 2025 18:49:00").getTime();
 
 var x = setInterval(function () {
 
